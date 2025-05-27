@@ -100,7 +100,7 @@ const About = () => {
                     </p>
                     <p><strong>Hobbies:</strong> Playing Volleyball, Music, Dancing</p>
                     <a
-                      href="/Lokesh_Nagrikar_Resume.pdf"
+                      href="/lokesh-resume.pdf"
                       className="btn btn-outline-info mt-3 fw-bold"
                       target="_blank"
                       rel="noopener noreferrer"
